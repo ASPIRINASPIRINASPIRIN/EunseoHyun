@@ -3,7 +3,12 @@ body{ cursor: url('cursor.cur'), auto;}
 
 @font-face {
    font-family: "BlackHanSans-Regular";
-   src: local('BlackHanSans-Regular.ttf'),
+   src: url("resources/BlackHanSans-Regular.ttf")
+}
+
+@font-face {
+   font-family: "Raleway";
+   src: url("resources/Raleway.ttf")
 }
 
 * {
@@ -140,67 +145,3 @@ img {
 
 
 
-/* h1{
-font-family:'Arial Black', sans-serif;
-font-size:2em;
-font-style:bold;
-line-height:1.3em;
-color:#ccff00;
-padding:0.5em;
-margin-right: 20px;
-}
-
-p{
-font-family:'Arial Black', sans-serif;
-font-size:1em;
-line-height:1.3em;
-color:#ccff00;
-padding:0.5em;
-margin-right: 20px;
-}
-
-h2{
-font-family:'Arial Black', sans-serif;
-font-size:1em;
-line-height:1.3em;
-color:#ccff00;
-padding:0.5em;
-margin-right: 20px;
-}
-
-h3{
-font-family:'Arial Black', sans-serif;
-font-size:3em;
-line-height:1.3em;
-color:#ccff00;
-padding:0.5em;
-text-align: center;
-margin-top: 300px;
-}
-
-h4{
-font-family:'Arial Black', sans-serif;
-font-size:1em;
-line-height:1.3em;
-color:#ccff00;
-padding:0.5em;
-text-align: center;
-margin-top: 350px;
-}
-
-h5{
-font-family:'Arial Black', sans-serif;
-font-size:2em;
-
-color:#ccff00;
-padding:0.5em;
-text-align: center;
-top: 200px;
-}
-
-#contents{
-    position: absolute;
-    top: 50%
-    height: auto;
-    margin-top: -50px;
-} */
