@@ -3,12 +3,12 @@ body{ cursor: url('cursor.cur'), auto;}
 
 @font-face {
    font-family: "BlackHanSans-Regular";
-   src: url("/aspirinaspirinaspirin/BlackHanSans-Regular.ttf")
+   src: url("aspirinaspirinaspirin/BlackHanSans-Regular.ttf")
 }
 
 @font-face {
    font-family: "Raleway";
-   src: url("/aspirinaspirinaspirin/Raleway.ttf")
+   src: url("aspirinaspirinaspirin/Raleway.ttf")
 }
 
 * {
