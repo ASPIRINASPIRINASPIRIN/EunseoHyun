@@ -2,9 +2,9 @@ body{ cursor: url('cursor.cur'), auto;}
 
 
 @font-face {
-   font-family: "BlackHanSans-Regular";
-   src: url("/aspirinaspirinaspirin/BlackHanSans-Regular.ttf")
+   font-family: 'Roboto', sans-serif;
 }
+
 
 @font-face {
    font-family: "Raleway";
@@ -12,11 +12,11 @@ body{ cursor: url('cursor.cur'), auto;}
 }
 
 * {
-   font-family: "BlackHanSans-Regular";
+   font-family: "Roboto";
 }
 
 .GeneratedMarquee {
-   font-family: "BlackHanSans-Regular";
+   font-family: "Roboto";
    font-size: 1.2em;
    /*font-style:italic; */
    line-height: 1.3em;
