@@ -1,6 +1,9 @@
 body{ cursor: url('cursor.cur'), auto;}
 
 
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+
+
 @font-face {
    font-family: 'Roboto', sans-serif;
 }
