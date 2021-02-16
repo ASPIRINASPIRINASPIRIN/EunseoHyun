@@ -1,11 +1,8 @@
 body{ cursor: url('cursor.cur'), auto;}
 
-
-@import url('https://fonts.googleapis.com/css?family=Abril Fatface');
-
-
 @font-face {
    font-family: 'Abril Fatface', serif;
+   src: url('https://fonts.googleapis.com/css?family=Abril Fatface')
 }
 
 
