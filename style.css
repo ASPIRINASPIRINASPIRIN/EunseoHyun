@@ -1,11 +1,11 @@
 body{ cursor: url('cursor.cur'), auto;}
 
 
-@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Abril Fatface');
 
 
 @font-face {
-   font-family: 'Roboto', sans-serif;
+   font-family: 'Abril Fatface', serif;
 }
 
 
