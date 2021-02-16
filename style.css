@@ -1,13 +1,5 @@
 body{ cursor: url('cursor.cur'), auto;}
 
-@import url('https://fonts.googleapis.com/css2?family=Rammetto+One&display=swap');
-
-@font-face {
-   font-family: "Raleway";
-   src: url("/aspirinaspirinaspirin/Raleway.ttf")
-}
-
-
 .GeneratedMarquee {
    font-family: 'Rammetto One', cursive;
    font-size: 1.2em;
@@ -83,8 +75,7 @@ color: #CCCCFF;
 }
 
 p1 {
-
-   font-family: 'Raleway';
+   font-family: 'Raleway Dots', cursive;
    /*font-size: 1em;
    /*margin: 0;
    /* line-height: 2.1em; */
@@ -106,7 +97,7 @@ p1 {
 }
 
 p2{
-  font-family: 'Raleway';
+  font-family: 'Raleway Dots', cursive;
   font-style: italic;
   text-decoration: underline;
   display: inline-block;
