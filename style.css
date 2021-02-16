@@ -1,7 +1,7 @@
 body{ cursor: url('cursor.cur'), auto;}
 
 .GeneratedMarquee {
-   font-family: 'Raleway Dots', cursive;
+   font-family: 'Raleway', cursive;
    font-size: 1.2em;
    /*font-style:italic; */
    line-height: 1.3em;
@@ -65,7 +65,7 @@ border: 1px solid #CCFF00; */
 }
 
 p {
-font-family: 'Raleway Dots', cursive;
+font-family: 'Raleway', cursive;
 position: relative;
 top: auto;
 font-size: 1.1em;
@@ -75,7 +75,7 @@ color: #CCCCFF;
 }
 
 p1 {
-   font-family: 'Raleway Dots', cursive;
+   font-family: 'Raleway', cursive;
    /*font-size: 1em;
    /*margin: 0;
    /* line-height: 2.1em; */
@@ -97,7 +97,7 @@ p1 {
 }
 
 p2{
-  font-family: 'Raleway Dots', cursive;
+  font-family: 'Raleway', cursive;
   font-style: italic;
   text-decoration: underline;
   display: inline-block;
