@@ -1,22 +1,16 @@
 body{ cursor: url('cursor.cur'), auto;}
 
-@import {
-   font-family: 'Audiowide', sans-serif;
-   src: url("https://fonts.googleapis.com/css?family=Audiowide")
-}
-
-
 @font-face {
    font-family: "Raleway";
    src: url("/aspirinaspirinaspirin/Raleway.ttf")
 }
 
 * {
-   font-family: "Audiowide";
+   font-family: 'Abril Fatface', cursive;
 }
 
 .GeneratedMarquee {
-   font-family: "Audiowide";
+   font-family: "Abril Fatface";
    font-size: 1.2em;
    /*font-style:italic; */
    line-height: 1.3em;
