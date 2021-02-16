@@ -1,6 +1,6 @@
 body{ cursor: url('cursor.cur'), auto;}
 
-@font-face {
+@import {
    font-family: 'Audiowide', sans-serif;
    src: url("https://fonts.googleapis.com/css?family=Audiowide")
 }
