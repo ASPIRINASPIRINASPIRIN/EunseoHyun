@@ -1,8 +1,8 @@
 body{ cursor: url('cursor.cur'), auto;}
 
 @font-face {
-   font-family: 'Abril Fatface', serif;
-   src: url('https://fonts.googleapis.com/css?family=Abril Fatface')
+   font-family: 'Audiowide', sans-serif;
+   src: url("https://fonts.googleapis.com/css?family=Audiowide")
 }
 
 
@@ -12,11 +12,11 @@ body{ cursor: url('cursor.cur'), auto;}
 }
 
 * {
-   font-family: "Abril Fatface";
+   font-family: "Audiowide";
 }
 
 .GeneratedMarquee {
-   font-family: "Abril Fatface";
+   font-family: "Audiowide";
    font-size: 1.2em;
    /*font-style:italic; */
    line-height: 1.3em;
