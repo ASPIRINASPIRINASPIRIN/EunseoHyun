@@ -1,6 +1,6 @@
 body{ cursor: url('cursor.cur'), auto;}
 
-@import url('https://fonts.googleapis.com/css2?family=Paytone+One&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Rammetto+One&display=swap');
 
 @font-face {
    font-family: "Raleway";
@@ -8,11 +8,11 @@ body{ cursor: url('cursor.cur'), auto;}
 }
 
 * {
-   font-family: 'Paytone One', sans-serif;
+   font-family: 'Rammetto One', cursive;
 }
 
 .GeneratedMarquee {
-   font-family: 'Paytone One', sans-serif;
+   font-family: 'Rammetto One', cursive;
    font-size: 1.2em;
    /*font-style:italic; */
    line-height: 1.3em;
@@ -76,7 +76,7 @@ border: 1px solid #CCFF00; */
 }
 
 p {
-font-family: 'Paytone One', sans-serif;
+font-family: 'Rammetto One', cursive;
 position: relative;
 top: auto;
 font-size: 1.1em;
