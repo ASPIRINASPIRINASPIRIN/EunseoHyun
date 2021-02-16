@@ -12,11 +12,11 @@ body{ cursor: url('cursor.cur'), auto;}
 }
 
 * {
-   font-family: "Roboto";
+   font-family: "Abril Fatface";
 }
 
 .GeneratedMarquee {
-   font-family: "Roboto";
+   font-family: "Abril Fatface";
    font-size: 1.2em;
    /*font-style:italic; */
    line-height: 1.3em;
