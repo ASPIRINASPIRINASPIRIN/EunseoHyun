@@ -1,15 +1,13 @@
 body{ cursor: url('cursor.cur'), auto;}
 
-@import url('https://fonts.googleapis.com/css2?family=Press+Start+2P&family=Raleway+Dots&display=swap'); 
+@import url('https://fonts.googleapis.com/css2?family=Changa+One&family=Raleway+Dots&display=swap');
 
 .GeneratedMarquee {
-   font-family: 'Press Start 2P';
+   font-family: 'Changa One';
    font-size: 1.2em;
    /*font-style:italic; */
    line-height: 1.3em;
    color: #16433D;
-   -webkit-text-stroke-width: 1.5px;
-   -webkit-text-stroke-color: #CCCCFF ;
    /*background-color:#000000;
 padding:0.5em;
 border: 1px solid #CCFF00;*/
@@ -69,7 +67,7 @@ border: 1px solid #CCFF00; */
 }
 
 p {
-font-family: 'Press Start 2P';
+font-family: 'Changa One';
 position: relative;
 top: auto;
 font-size: 1.1em;
