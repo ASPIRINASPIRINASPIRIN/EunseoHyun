@@ -8,6 +8,8 @@ body{ cursor: url('cursor.cur'), auto;}
    /*font-style:italic; */
    line-height: 1.3em;
    color: #16433D;
+   -webkit-text-stroke-width: 1.5px;
+   -webkit-text-stroke-color: #CCCCFF ;
    /*background-color:#000000;
 padding:0.5em;
 border: 1px solid #CCFF00;*/
