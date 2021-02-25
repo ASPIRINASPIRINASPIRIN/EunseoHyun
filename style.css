@@ -5,12 +5,12 @@ body{ cursor: url('cursor.cur'), auto;}
 /*.GeneratedMarquee {
    font-family: 'Changa One';
    font-size: 2em;
-   /*font-style:italic; */
+  font-style:italic;
    line-height: 1.3em;
    color: #16433D;
-   /*background-color:#000000;
+  background-color:#000000;
 padding:0.5em;
-border: 1px solid #CCFF00;*/
+border: 1px solid #CCFF00;
 } */
 
 .eunseo1 {
@@ -68,10 +68,10 @@ border: 1px solid #CCFF00; */
 
 p {
 font-family: 'Changa One';
-position: absolute;
-top: 20px;
+/*top: 20px;*/
 text-align: center;
 font-size: 1.5em;
+line-height: 1.3em;
 color: #CCCCFF;
 -webkit-text-stroke-width: 1.5px;
 -webkit-text-stroke-color: #16433D ;
