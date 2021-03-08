@@ -1,6 +1,6 @@
 body{ cursor: url('cursor.cur'), auto;}
 
-@import url('https://fonts.googleapis.com/css2?family=Changa+One&family=Raleway+Dots&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Archivo+Black&family=Raleway&display=swap');
 
 /*.GeneratedMarquee {
    font-family: 'Changa One';
@@ -67,7 +67,7 @@ border: 1px solid #CCFF00; */
 }
 
 p {
-font-family: 'Changa One';
+font-family: 'Archivo Black';
 /*top: 20px;*/
 text-align: center;
 font-size: 1.5em;
