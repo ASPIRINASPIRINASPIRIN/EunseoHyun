@@ -1,6 +1,6 @@
 body{ cursor: url('cursor.cur'), auto;}
 
-@import url('https://fonts.googleapis.com/css2?family=Archivo+Black&family=Raleway&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Raleway:wght@400;900&display=swap');
 
 /*.GeneratedMarquee {
    font-family: 'Changa One';
@@ -15,7 +15,7 @@ border: 1px solid #CCFF00;
 
 .eunseo1 {
    font-size: 1.5em;
-   font-style: bold;
+   font-style: bolder;
    text-align: center;
    /*line-height:1.3em;
 color:#ccff00;
@@ -25,49 +25,50 @@ border: 1px solid #CCFF00; */
 
 .eunseo2 {
    font-size: 1.5em;
-   font-style: bold;
+   font-style: bolder;
+   font
    text-align: center;
    color: #CCCCFF;
 }
 
 .eunseo3 {
    font-size: 1.5em;
-   font-style: bold;
+   font-style: bolder;
 }
 
 .eunseo4 {
    font-size: 1.5em;
-   font-style: bold;
+   font-style: bolder;
    text-align: center;
    color: #CCCCFF;
 }
 
 .eunseo5 {
    font-size: 1.5em;
-   font-style: bold;
+   font-style: bolder;
 }
 
 .eunseo6 {
    font-size: 1.5em;
-   font-style: bold;
+   font-style: bolder;
    text-align: center;
    color: #CCCCFF;
 }
 
 .eunseo7 {
    font-size: 1.5em;
-   font-style: bold;
+   font-style: bolder;
 }
 
 .eunseo8 {
    font-size: 1.5em;
-   font-style: bold;
+   font-style: bolder;
    text-align: center;
    color: #CCCCFF;
 }
 
 p {
-font-family: 'Archivo Black';
+font-family: 'Raleway';
 /*top: 20px;*/
 text-align: center;
 font-size: 1.5em;
