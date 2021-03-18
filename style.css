@@ -6,9 +6,9 @@ h1 {
 font-family: 'Raleway';
 /*top: 20px;*/
 text-align: center;
-font-size: 1.5em;
+font-size: 4em;
 font-weight: 900;
-line-height: 1.5em;
+line-height: 4em;
 color: #CCCCFF;
 -webkit-text-stroke-width: 1.5px;
 -webkit-text-stroke-color: #16433D ;
@@ -27,7 +27,7 @@ p1 {
    */
    display: inline-block;
    max-width: 90%;
-   font-size: 0.7em;
+   font-size: 1em;
    white-space: nowrap;
    /*margin: 0;
    /* line-height: 2.1em; */
@@ -43,7 +43,7 @@ p2{
   text-decoration: underline;
   display: inline-block;
   max-width: 80%;
-  font-size: 0.7em;
+  font-size: 1em;
   white-space: nowrap;
   /*margin: 0;
   /* line-height: 2.1em; */
