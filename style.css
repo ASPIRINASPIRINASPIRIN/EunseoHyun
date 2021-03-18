@@ -2,70 +2,6 @@ body{ cursor: url('cursor.cur'), auto;}
 
 @import url('https://fonts.googleapis.com/css2?family=Raleway:wght@400;900&display=swap');
 
-/*.GeneratedMarquee {
-   font-family: 'Changa One';
-   font-size: 2em;
-  font-style:italic;
-   line-height: 1.3em;
-   color: #16433D;
-  background-color:#000000;
-padding:0.5em;
-border: 1px solid #CCFF00;
-} */
-
-.eunseo1 {
-   font-size: 1.5em;
-   font-style: bolder;
-   text-align: center;
-   /*line-height:1.3em;
-color:#ccff00;
-padding:0.5em;
-border: 1px solid #CCFF00; */
-}
-
-.eunseo2 {
-   font-size: 1.5em;
-   font-weight: 900;
-   text-align: center;
-   color: #CCCCFF;
-}
-
-.eunseo3 {
-   font-size: 1.5em;
-   font-weight: 900;
-}
-
-.eunseo4 {
-   font-size: 1.5em;
-   font-weight: 900;
-   text-align: center;
-   color: #CCCCFF;
-}
-
-.eunseo5 {
-   font-size: 1.5em;
-   font-weight: 900;
-}
-
-.eunseo6 {
-   font-size: 1.5em;
-   font-weight: 900;
-   text-align: center;
-   color: #CCCCFF;
-}
-
-.eunseo7 {
-   font-size: 1.5em;
-   font-weight: 900;
-}
-
-.eunseo8 {
-   font-size: 1.5em;
-   font-weight: 900;
-   text-align: center;
-   color: #CCCCFF;
-}
-
 h1 {
 font-family: 'Raleway';
 /*top: 20px;*/
@@ -98,6 +34,7 @@ p1 {
    color: #16433D;
    text-align: left;
    padding:1.5em;
+   font-weight: normal;
 }
 
 p2{
