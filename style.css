@@ -27,7 +27,7 @@ p1 {
    */
    display: inline-block;
    max-width: 90%;
-   font-size: 1em;
+   font-size: 1.5em;
    white-space: nowrap;
    /*margin: 0;
    /* line-height: 2.1em; */
@@ -43,7 +43,7 @@ p2{
   text-decoration: underline;
   display: inline-block;
   max-width: 80%;
-  font-size: 1em;
+  font-size: 1.2em;
   white-space: nowrap;
   /*margin: 0;
   /* line-height: 2.1em; */
